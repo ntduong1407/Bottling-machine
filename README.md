@@ -1,5 +1,3 @@
-Box and Can Station
-
+Box and Can Station System
 Using PLC Tia Portal and Factory IO
-
-Link: 
+Link: https://youtu.be/wZyVWu-c6bw
